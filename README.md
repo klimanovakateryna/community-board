@@ -23,22 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='<blockquote class="imgur-embed-pub" lang="en" data-id="a/U4cxA5t" data-context="false" ><a href="//imgur.com/a/U4cxA5t"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://github.com/klimanovakateryna/gif_community_place.git" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
-## Notes
-
-Describe any challenges encountered while building the app.
+GIF created with Chrome Capture 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Kateryna Klimanova
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
