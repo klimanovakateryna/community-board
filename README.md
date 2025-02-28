@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="https://github.com/klimanovakateryna/gif_community_place.git" title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Video Walkthrough](![image](https://github.com/user-attachments/assets/998707b0-ddc7-4e3b-a720-e16f9d71d4d4))
+
+![Video Walkthrough](https://github.com/klimanovakateryna/gif_community_place/blob/main/Community-board-walkthrough.gif?raw=true)
 GIF created with Chrome Capture 
 
 ## License
