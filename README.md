@@ -25,7 +25,7 @@ Here's a walkthrough of implemented required features:
 
 
 ![Video Walkthrough](https://github.com/klimanovakateryna/gif_community_place/blob/main/Community-board-walkthrough.gif?raw=true)
-GIF created with Chrome Capture 
+GIF created with **Chrome Capture** 
 
 ## License
 
