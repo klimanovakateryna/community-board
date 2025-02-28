@@ -1,0 +1,41 @@
+body {
+  background-color: #ffffff;
+  font-family: Inter;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.header {
+  font-family: Verdana, Geneva, sans-serif;
+  letter-spacing: -3.2px;
+  word-spacing: 0.2px;
+  color: #000000;
+  font-weight: normal;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: small-caps;
+  text-transform: lowercase;
+  text-align: center;
+  background-image: url("/pictures/header.png");
+  background-size: cover;
+  background-position: center;
+  border-bottom: 1px solid #ddd;
+  padding: 30px 0;
+  margin-bottom: 20px;
+  margin-right: -20px;
+  margin-left: -20px;
+  box-shadow: 0 4px 8px rgba(136, 129, 129, 0.1);
+}
+
+.header h1 {
+  font-size: 50px; 
+}
